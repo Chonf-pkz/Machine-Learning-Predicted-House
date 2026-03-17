@@ -1,6 +1,6 @@
 "# MAS291" 
 "# Machine-Learning-Predicted-House" 
-# 📈 Applied Statistics (MAS291) in Machine Learning Workflow
+# 📈 Applied Statistics - Linear Regression (MAS291) in Machine Learning Workflow
 
 Tài liệu này tóm tắt cách áp dụng các kiến thức trong giáo trình MAS291 vào các giai đoạn cốt lõi của một dự án Machine Learning (ML), từ tiền xử lý dữ liệu đến đánh giá mô hình.
 
